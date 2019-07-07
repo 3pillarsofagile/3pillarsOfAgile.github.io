@@ -1,0 +1,24 @@
+<div class="image-wrapper" >
+    {% if include.url %}
+    <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+    {% endif %}
+        <img  src="
+        {% if include.img contains 'http' %}
+          {{ include.img }}
+        {% else %}
+          {{ site.url }}/assets/images/{{ include.img }}
+        {% endif %}
+        "
+              alt="{{ include.title }}"
+              {% if include.max-width %}
+                width="{{include.max-width}}"
+              {% endif %}
+              class="img-thumbnail rounded"
+              />
+    {% if include.url %}
+    </a>
+    {% endif %}
+    {% if include.caption %}
+        <p class="image-caption">{{ include.caption }}</p>
+    {% endif %}
+</div>

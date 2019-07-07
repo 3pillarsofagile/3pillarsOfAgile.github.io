@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+<head>
+    {% include head.html %}
+<style>
+    /* the landing-page-only style */
+    .navbar{
+        margin-bottom: 3em;
+    }
+</style>
+</head>
+
+<body>
+
+{% include navbar.html %}
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+
+</html>

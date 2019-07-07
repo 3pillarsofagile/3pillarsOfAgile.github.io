@@ -1,0 +1,17 @@
+<blockquote class="blockquote">
+  {% if include.text %}
+    <p class="mb-0">
+        {{include.text}}
+    </p>
+  {% endif %}
+  {% if include.footer %}
+    <footer class="blockquote-footer">
+        {{include.footer}}
+        {% if include.footer-source %},
+            <cite title="Source Title">
+                {{include.footer-source}}
+            </cite>
+        {% endif %}
+    </footer>
+  {% endif %}
+</blockquote>
