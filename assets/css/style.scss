@@ -11,13 +11,21 @@
 * landing page
 */
 .landing{
+  .navbar{
+    margin-bottom: 3em;
+  }
   .block{
     text-align: center;
     h2{
       
     }
     .sub-heading{
-      font-size: 2em;
+      font-size: 1.8em;
+      color: gray;
+    }
+    .closing-heading{
+      margin-top: 1.5em;
+      font-size: 1.5em;
       color: gray;
     }
   }
