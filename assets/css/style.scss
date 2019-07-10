@@ -4,18 +4,23 @@
 @import "bootstrap/bootstrap";
 
 .navbar{
-     margin-bottom: 1.5rem;
+     margin-bottom: 3em;
 }
 
 /*
 * landing page
 */
 .landing{
-  .navbar{
-    margin-bottom: 3em;
+  hr{
+    margin: 3em 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.25);
   }
   .block{
+    font-size: 1.15em;
     text-align: center;
+    h2{
+      font-size: 2.1em;
+    }
     .sub-heading{
       font-size: 1.8em;
       color: gray;
@@ -26,6 +31,13 @@
       color: gray;
     }
   }
+}
+
+footer{
+  background-color: #eaeaea;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  margin-top: 4.5em;
 }
 
 /*
@@ -66,3 +78,38 @@ blockquote p {
       font-size: 0.9em;
     }
   }
+
+  /*
+  * Eventbox
+  */
+
+.event-box{
+  background-color: #d1e3ff;
+  padding: 0.7em 1em;
+  margin-top: 1em;
+  min-height: 100px;
+  
+  h4{
+      margin-bottom: 5px;
+  }
+
+  img.trainer{
+      width: 70px;
+      margin-right: 10px;
+  }
+
+  a.button {
+      -webkit-appearance: button;
+      -moz-appearance: button;
+      appearance: button;
+      text-decoration: none;
+      color: initial;
+      padding: 2px;
+  }
+}
+
+.practice-list{
+  h5{
+    margin-bottom: 0;
+  }
+}

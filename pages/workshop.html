@@ -1,0 +1,67 @@
+---
+permalink: "workshop"
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-6">
+        <img src="/assets/image/mufid-workshop.jpg" class="img-fluid img-thumbnail" alt="3 Pilar Agile">
+    </div>
+    <div class="col-md-6" style="font-size: 1.15em">
+        <h2>Workshop (Gratis!)</h2>
+        <p>
+            <em>Kenapa gratis?</em> 
+        </p>
+        <ul>
+            <li>Karena kami ingin <strong>Tiga Pilar Agile</strong> tersebar seluas mungkin.</li>
+            <li>Karena materinya ringan; maksimum sesinya 3 jam&mdash;tidak semua pemateri punya waktu sefleksibel trainer/freelancer.</li>
+        </ul>
+        <p>
+            <em>Bagaimana dengan kualitas?</em> Jangan khawatir. Meski gratis, kualitas materi & penyampaiannya dijaga oleh trainer profesional.
+        </p>
+        <p>
+            Perlu dicatat: karena gratis, pemilik <em>venue</em> bisa mewajibkan pembelian makanan atau melakukan sesi promosi (maks. 5 menit). Di akhir workshop, ada kesempatan memberikan donasi bebas ke pemateri. Jangan kasih 1 Rupiah-pun kalau dirasa tidak berkualitas & bermanfaat. ;)
+        </p>
+        <p>
+            Minat menjadi pemateri? Atau fasilitasi <em>venue</em>? Hubungi Telegram <a href="https://t.me/RizkySyaiful">t.me/RizkySyaiful</a>. Butuh workshop topik tertentu di tanggal tertentu? Ajukan di grup <a href="https://t.me/Diskusi_3PA">t.me/Diskusi_3PA</a>.
+        </p>
+    </div>
+</div>
+
+<hr style="margin: 3em 0; border-top: 1px solid rgba(0, 0, 0, 0.25);">
+
+<h1 style="text-align: center;margin-bottom: 1em;">Workshop Siap Daftar</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        {% assign workshops = site.workshops | where: "workshop", "tiga-pilar-agile" %}
+            
+        {% if workshops != null %}
+
+            <h3 style="text-align: center; margin-bottom:15px;">Tiga Pilar Agile</h3>
+
+            <p>
+                Setelah mengikuti workshop ini, teman-teman akan mehamai praktik-praktik terpenting di Scrum, Kanban, dan XP; dan kesamaan mereka semua (baca: Tiga Pilar Agile). Ini adalah pengetahuan penting jika ingin punya budaya kerja yang lebih tangkas!
+            </p>
+
+            {% include workshop_looper.html looped=workshops %}
+
+        {% endif %}
+    </div>
+    <div class="col-md-6">
+            {% assign workshops = site.workshops | where: "workshop", "cypress-dasar" %}
+
+            {% if workshops != null %}
+
+            <h3 style="text-align: center; margin-bottom:15px;">Pengenalan Automated E2E Testing dengan Cypress</h3>
+
+            <p>
+                Setelah mengikuti workshop ini, peserta jadi bisa memulai membuat/menjalankan skrip otomasi dengan Cypress (salah satu yang terbaik saat ini), mengubah kode HTML agar tes lebih mudah diotomasi, & menyusun strategi otomasi tes software. Demi software yang tanpa bug!
+            </p>
+
+            {% include workshop_looper.html looped=workshops %}
+        
+        {% endif %}
+    </div>
+</div>
+

@@ -1,0 +1,58 @@
+---
+permalink: "3-enduring"
+layout: default
+---
+
+<div class="row">
+    <div class="col-md-6" style="font-size: 1.15em">
+        <img src="/assets/image/pilar-3-agile.jpeg" class="img-fluid img-thumbnail" alt="3 Pilar Agile">
+        <blockquote class="blockquote">
+                <p class="mb-0">
+                    <em>Semua binatang yang tangkas, pasti punya kaki & tangan yang kuat, juga paru-paru besi. Yang tidak punya akan terjatuh atau melambat kelelahan, lalu dimangsa binatang lain.</em>
+                </p>
+            </blockquote>
+    </div>
+    <div class="col-md-6">
+        <div style="text-align: center;">
+            <img src="/assets/image/agile-is-enduring-big.jpeg" class="img-fluid" style="max-width: 300px;" alt="">
+            <h2 style="text-align: center;margin-bottom: 1em;">Praktik-Praktik Pilar 3: Haramkan <em>Burnout</em> & Hutang Teknis</h2>
+        </div>
+        <ul class="list-group practice-list">
+
+            {% assign practices = site.practices | where: "categories", "third-pillar" %}
+
+            {% for p in practices %}
+        
+                <li class="list-group-item">
+                    <a href="{{ p.url }}"><h5>{{ p.title }}</h5></a>
+                </li>
+        
+            {% endfor %}
+        
+        </ul>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-9">
+        <hr>
+        <h4>Ada Praktik Pilar 3 yang Perlu Ditambahkan/Dikurangi?</h4>
+        <p>
+            Usulan anda bisa terekam di riwayat perubahan halaman ini <a href="https://github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}">github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}</a>
+        </p>
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_config = function () {
+            this.page.url = "{{site.url}}{{page.url}}"; 
+            this.page.identifier = "{{page.permalink}}";
+        };
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://3pillarsofagile-github-io.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+</div>

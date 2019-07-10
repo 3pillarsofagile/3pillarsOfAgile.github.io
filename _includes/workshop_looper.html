@@ -1,0 +1,14 @@
+{% for e in include.looped  %}
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+    {% capture training-date %}{{e.date | date: '%s'}}{% endcapture %}
+    {% if training-date > nowunix %}
+        <div class="event-box">
+                <a class="btn btn-info btn-sm pull-right" href="{{ e.registration }}">&nbsp;Pelajari &amp; Daftar&nbsp;</a>
+            <h5>{{ e.trainer-name }}</h5>
+            <img class="trainer" align="left" src="/assets/image/person/{{ e.trainer-photo }}" >
+            Waktu: {{e.time}}, {% include id-date.html date=e.date %}<br>
+            Tempat: {{ e.venue }}, {{ e.city }}<br>
+            Keterangan: {{ e.note }}<br>
+        </div>
+    {% endif %}
+{% endfor %}

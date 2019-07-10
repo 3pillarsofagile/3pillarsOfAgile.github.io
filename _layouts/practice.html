@@ -1,0 +1,53 @@
+---
+layout: default
+comments: true
+---
+
+<h1>{{page.title}}</h1>
+<h5 class="text-muted">Sebuah praktik penegak 
+    {% for pilar in page.categories %}
+        {% case pilar %}
+            {% when "first-pillar" %}
+                <a href="/1-fast" class="badge badge-info">Pilar 1</a>
+            {% when "second-pillar" %}
+                <a href="/2-flexible" class="badge badge-info">Pilar 2</a>
+            {% when "third-pillar" %}
+                <a href="/3-enduring" class="badge badge-info">Pilar 3</a>
+        {% endcase %}
+    {% endfor %}
+    , dilakukan oleh
+    {% for target in page.targets %}
+        <span class="badge badge-pill badge-info">{{target}}</span> 
+    {% endfor %}
+</h5>
+<hr>
+<div class="row">
+    <div class="col-md-9">
+    {{ content }}
+    <p>
+            Riwayat perubahan halaman ini <a href="https://github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}">github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}</a>
+    </p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-9">
+        <hr>
+        <h4>Ada saran perbaikan untuk halaman ini? {{page.question}}</h4>
+        <div id="disqus_thread"></div>
+        <script>
+        var disqus_config = function () {
+            this.page.url = "{{site.url}}{{page.url}}"; 
+            this.page.identifier = "{{page.permalink}}";
+        };
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://3pillarsofagile-github-io.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+</div>
+                            
