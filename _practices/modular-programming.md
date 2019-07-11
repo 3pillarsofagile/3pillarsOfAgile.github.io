@@ -1,10 +1,11 @@
 ---
 layout: practice
-title:  "Modular Programming: Membuat Kode Semakin Mudah Dibaca & Digunakan Ulang"
+title:  "Modular Programming"
+subtitle: "Membuat kode semakin mudah sibaca & digunakan ulang, sehingga programmer berkerja lebih cepat."
 permalink: "modular-programming"
 categories: [first-pillar, third-pillar]
 targets: [programmer]
 question: Apa pandangan-mu terhadap Modular Programming? Punya kisah nyata?
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?
+Modular Programming adalah cara penulisan kode software yang berusaha meningkatkan independensi komponen-komponen penyusun kode software. Tujuannya adalah kemudahan untuk membaca, menganalisa, menguji, kode software. Praktik Modular Programming terkait erat dengan praktik Object Oriented Programming.

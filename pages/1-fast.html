@@ -11,6 +11,13 @@ layout: default
                 <em>Cepat belum tentu tangkas, tapi lambat sudah pasti tidak tangkas.</em>
             </p>
         </blockquote>
+        <p>
+            <em>Apakah 'rilis' berarti harus 'update software' ke semua pengguna?</em> Tentu tidak. Bisa ke beberapa (beta-release)&mdash;jika dirasa pendapat mereka sudah mewakili seluruh pengguna. Karena tujuan akhir Pilar 1 adalah dapat pendapat jujur pengguna secepat-cepatnya sebelum tidak lagi relevan.
+        </p>
+        <p>
+            <em>Apakah 'secepat-cepatnya' & 'sesering-seringnya' itu berarti rilis setiap 3 jam?</em> Bagus jika bisa, namun tidak harus. Kadang, kondisi & perhitungan bisnis mengharuskan rilis dalam hitungan bulan. Jika itu sudah dinilai yang paling cepat, maka Pilar 1 sudah tegak.
+        </p>
+        
     </div>
     <div class="col-md-6">
         <div style="text-align: center;">
@@ -20,14 +27,8 @@ layout: default
         <ul class="list-group practice-list">
 
             {% assign practices = site.practices | where: "categories", "first-pillar" %}
-
-            {% for p in practices %}
-        
-                <li class="list-group-item">
-                    <a href="{{ p.url }}"><h5>{{ p.title }}</h5></a>
-                </li>
-        
-            {% endfor %}
+            
+            {% include practice_looper.html looped = practices %}
         
         </ul>
     </div>

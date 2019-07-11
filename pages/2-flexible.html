@@ -25,14 +25,7 @@ layout: default
         <ul class="list-group practice-list">
 
             {% assign practices = site.practices | where: "categories", "second-pillar" %}
-
-            {% for p in practices %}
-        
-                <li class="list-group-item">
-                    <a href="{{ p.url }}"><h5>{{ p.title }}</h5></a>
-                </li>
-        
-            {% endfor %}
+            {% include practice_looper.html looped = practices %}
         
         </ul>
     </div>

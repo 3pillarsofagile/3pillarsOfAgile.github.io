@@ -3,6 +3,13 @@
 
 @import "bootstrap/bootstrap";
 
+a:visited{
+  color: #0056b3;
+}
+a.badge:visited{
+  color: white;
+}
+
 .navbar{
      margin-bottom: 3em;
 }

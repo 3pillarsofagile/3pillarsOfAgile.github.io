@@ -1,0 +1,8 @@
+{% for p in include.looped %}
+        
+    <li class="list-group-item">
+        <a href="{{ p.url }}"><h5>{{ p.title }}</h5></a>
+        <span class="text-muted">{{ p.subtitle }}</span>
+    </li>
+
+{% endfor %}

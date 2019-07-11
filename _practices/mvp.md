@@ -1,6 +1,7 @@
 ---
 layout: practice
-title:  "MVP: Mengecilkan Target Rilis Sekecil-kecilnya"
+title:  "MVP"
+subtitle: "Mengecilkan target rilis sekecil-kecilnya, sehingga makin cepat rilis dan memvalidasi nilali bisnis."
 permalink: "mvp"
 categories: [first-pillar, second-pillar]
 targets: [shareholder, director, owner, product-owner]
