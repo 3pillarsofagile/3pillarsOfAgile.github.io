@@ -3,6 +3,7 @@ layout: practice
 title:  "Algorithmic Problem Solving"
 subtitle: "Cara melatih kecepatan berpikir programmer, sehingga bisa menyelesaikan masalah lebih cepat."
 permalink: "algorithmic-problem-solving"
+is_boosting_transparency: false
 categories: [first-pillar]
 targets: [programmer]
 question: Apa pandangan-mu terhadap APS? Punya kisah nyata?

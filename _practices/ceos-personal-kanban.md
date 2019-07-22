@@ -3,6 +3,7 @@ layout: practice
 title:  "CEO's Personal Kanban"
 subtitle: "Cara Menunjukkan ke Organisasi Kalau CEO-nya Berani Transparan."
 permalink: "ceos-personal-kanban"
+is_boosting_transparency: true
 categories: [first-pillar, second-pillar]
 targets: [ceo]
 question: Apa pandangan-mu terhadap CEO's Personal Kanban? Bagaimana cara terbaik memberitahu CEO tentang ini?
@@ -27,19 +28,20 @@ Seorang CEO mungkin punya sekretaris untuk mengelola jadwal beliau. Oleh karenan
 
 #### Manfaat Papan Kanban CEO
 
-1. Seluruh anggota organisasi jadi makin percaya dengan CEO, karena bisa melihat perjuangannya untuk perusahaan di sepanjang hari.
+1. Seluruh anggota organisasi jadi makin percaya dengan CEO, karena bisa melihat perjuangannya untuk perusahaan dari hari ke hari.
 2. Informasi pergerakan termutakhir CEO bisa memicu diskusi-diskusi produktif di internal organisasi.
-3. Memberi contoh ke seluruh anggota organisasi untuk ikut jadi transparan. 
+3. Memberi contoh ke seluruh anggota organisasi untuk ikut jadi transparan.
 
 #### Cara Implementasi
 
 1. Buat sebuah papan kanban, bisa fisik ataupun digital (contoh: [Trello](http://trello.com/)).
 2. Selalu perbarui status pekerjaan Anda di sana. Idealnya bisa _realtime_, selambat-lambatnya setiap hari.
-3. Beri akses semua orang di organisasi untuk membacanya. Jika fisik, bisa dengan membagikan foto terbaru. Jika ada agenda yang harus dirahasiakan, silahkan ganti judul task-nya&mdash;tapi jangan menghilangkan task-nya. 
+3. Beri akses semua orang di organisasi untuk membacanya. Jika fisik, bisa dengan membagikan foto terbaru. Jika digital, bisa dengan membagikan tautannya. Jika ada agenda yang harus dirahasiakan, silahkan ganti judul task-nya&mdash;tapi jangan menghilangkan task-nya.
+4. Komunikasikan informasi pembaruan dari papan Kanban Anda secara rutin ke orang-orang. Bisa berupa _broadcast_ email/chat singkat di pagi hari.
 
 #### Format Papan Kanban
 
-Papan kanban di atas bisa dimodifikasi menjadi seperti berikut:
+Papan kanban sederhana di atas bisa dimodifikasi menjadi seperti berikut:
 
 {% include image.html 
     img="https://user-images.githubusercontent.com/2253841/61530611-c32a2180-aa4e-11e9-8970-16f1f55738cc.png"
@@ -53,3 +55,17 @@ Papan kanban di atas bisa dimodifikasi menjadi seperti berikut:
     caption="Jika ada agenda Mingguan atau Bulanan bisa langsung ditambahkan. Kolom 'Done' bisa dikosongkan setiap minggu. Sumber: Sven Wiegand (klik gambar)."
     url="https://hackernoon.com/personal-kanban-part-1-why-todo-lists-don-t-work-3b5c6dc78708"
     %}
+
+{% include image.html 
+    img="https://user-images.githubusercontent.com/2253841/61588320-d90d2300-abc3-11e9-829e-c8219ad3d83d.png"
+    caption="Contoh menerapkan papan kanban di Trello. Sumber: Sven Wiegand (klik gambar)."
+    url="https://hackernoon.com/personal-kanban-part-2-personal-kanban-with-trello-a6bd6cdb0588"
+    %}
+
+#### Tapi Saya Bukan CEO!?
+
+Idealnya papan kanban pribadi dimulai oleh CEO, lalu diikuti oleh pimpinan-pimpinan lain di organisasi. Itu ideal karena budaya transparansi di seluruh bagian perusahaan akan meningkat drastis. Namun, jika hal itu tidak terjadi, bukan berarti Anda (seorang non-CEO) tidak bisa melakukannya.
+
+Jika Anda seorang pimpinan divisi, papan kanban pribadi bisa menginspirasi anggota tim Anda.
+
+Bahkan jika Anda seorang 100% eksekutor (alias tidak punya bawahan), papan kanban pribadi bisa membantu atasan dan rekan kerja melihat status pekerjaan Anda&mdash;dan tentunya juga menginspirasi mereka.

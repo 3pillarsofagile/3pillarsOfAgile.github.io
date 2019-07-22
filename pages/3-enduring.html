@@ -21,12 +21,25 @@ layout: default
             <img src="/assets/image/agile-is-enduring-big.jpeg" class="img-fluid" style="max-width: 300px;" alt="">
             <h2 style="text-align: center;margin-bottom: 1em;">Praktik-Praktik Pilar 3: Haramkan <em>Burnout</em> & Hutang Teknis</h2>
         </div>
-        <ul class="list-group practice-list">
-
-            {% assign practices = site.practices | where: "categories", "third-pillar" %}
-            {% include practice_looper.html looped = practices %}
-        
-        </ul>
+        {% assign practices = site.practices | where: "categories", "third-pillar" %}
+        <div>
+            {% assign t_practices = practices | where: "is_boosting_transparency", true %} 
+            {% if t_practices %}
+                <h4>Praktik-Praktik Transparansi</h4>
+                <ul class="list-group practice-list">             
+                    {% include practice_looper.html looped = t_practices %}
+                </ul>
+            {% endif %}
+        </div>
+        <div style="margin-top: 2em;">
+            {% assign nt_practices = practices | where: "is_boosting_transparency", false %} 
+            {% if nt_practices %}
+                <h4>Praktik-Praktik Kompetensi</h4>
+                <ul class="list-group practice-list">             
+                    {% include practice_looper.html looped = nt_practices %}
+                </ul>
+            {% endif %}
+        </div>
     </div>
 </div>
 

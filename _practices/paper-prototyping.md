@@ -3,6 +3,7 @@ layout: practice
 title:  "Paper Prototyping"
 subtitle: "Cara visualiasi rancangan software langsung di depan calon pengguna, sehingga bisa Build-Measure-Learn dalam hitungan detik."
 permalink: "paper-prototyping"
+is_boosting_transparency: false
 categories: [first-pillar, second-pillar]
 targets: [product-owner, designer, ux-researcher]
 question: Apa pandangan-mu terhadap Paper Prototyping? Punya kisah nyata?

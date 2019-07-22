@@ -3,6 +3,7 @@ layout: practice
 title:  "Automated Acceptance Testing"
 subtitle: "Cara menjaga kevalidan software dengan bantuan software, sehingga komunikasi makin akurat, bug makin minim, & rilis makin penuh rasa aman."
 permalink: "automated-acceptance-testing"
+is_boosting_transparency: false
 categories: [first-pillar, third-pillar]
 targets: [product-owner, qa-engineer, programmer]
 question: Apa pandangan-mu terhadap AAT? Punya kisah nyata? Ada cara mengenalkan & mengajarkan AAT ke orang lain?

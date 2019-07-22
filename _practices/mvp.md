@@ -1,8 +1,9 @@
 ---
 layout: practice
 title:  "MVP"
-subtitle: "Mengecilkan target rilis sekecil-kecilnya, sehingga makin cepat rilis dan memvalidasi nilali bisnis."
+subtitle: "Mengecilkan target rilis sekecil-kecilnya, sehingga makin cepat rilis dan memvalidasi nilai bisnis."
 permalink: "mvp"
+is_boosting_transparency: false
 categories: [first-pillar, second-pillar]
 targets: [shareholder, director, owner, product-owner]
 question: Apa pandangan-mu terhadap MVP? Ada pengalaman pribadi? Pernah berhasil meyakinkan atasan untuk mengecilkan target rilis?
@@ -24,7 +25,3 @@ Masalah terbesar muncul dari ego pimpinan inisiatif & ketakutannya akan kegagala
 #### Tips Mengenalkan Konsep MVP ke Pimpinan
 
 * Takut-takuti dengan kompetitor.
-
-#### Kontribusi
-
-Halaman ini diinsiasi oleh Rizky Syaiful. Tips menakut-nakuti kompetitor ditambah oleh Fulan bin Mawar.
