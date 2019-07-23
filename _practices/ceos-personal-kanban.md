@@ -1,17 +1,17 @@
 ---
 layout: practice
-title:  "CEO's Personal Kanban"
-subtitle: "Cara Menunjukkan ke Organisasi Kalau CEO-nya Berani Transparan."
+title:  "Kanban Personal CEO"
+subtitle: "Cara menunjukkan ke organisasi Kalau CEO-nya berani transparan."
 permalink: "ceos-personal-kanban"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar]
 targets: [ceo]
-question: Apa pandangan-mu terhadap CEO's Personal Kanban? Bagaimana cara terbaik memberitahu CEO tentang ini?
+question: Apa pandangan-mu terhadap Papan Kanban CEO? Bagaimana cara terbaik memberitahu CEO tentang ini?
 ---
 
-#### Sebelumnya, apa itu Personal Kanban?
+#### Sebelumnya, apa itu Kanban Personal?
 
-Personal Kanban adalah papan kanban milik individu. Lalu apa itu papan kanban?
+Kanban Personal adalah papan kanban milik individu. Lalu apa itu papan kanban?
 
 Papan kanban adalah alat bantu visualisasi status pekerjaan dengan memanfaatkan kartu-kartu yang digeser dan kolom-kolom status pekerjaan. Fungsinya adalah untuk meningkatkan transparansi, baik ke internal maupun ke eksternal.
 
@@ -26,7 +26,7 @@ Langsung terlihat kalau papan kanban bisa dimanfaatkan oleh individu maupun tim.
 
 Seorang CEO mungkin punya sekretaris untuk mengelola jadwal beliau. Oleh karenanya, manfaat praktik Papan Kanban CEO lebih berat ke eksternal dari pada ke internal.
 
-#### Manfaat Papan Kanban CEO
+#### Manfaat Kanban Personal CEO
 
 1. Seluruh anggota organisasi jadi makin percaya dengan CEO, karena bisa melihat perjuangannya untuk perusahaan dari hari ke hari.
 2. Informasi pergerakan termutakhir CEO bisa memicu diskusi-diskusi produktif di internal organisasi.
@@ -69,3 +69,13 @@ Idealnya papan kanban pribadi dimulai oleh CEO, lalu diikuti oleh pimpinan-pimpi
 Jika Anda seorang pimpinan divisi, papan kanban pribadi bisa menginspirasi anggota tim Anda.
 
 Bahkan jika Anda seorang 100% eksekutor (alias tidak punya bawahan), papan kanban pribadi bisa membantu atasan dan rekan kerja melihat status pekerjaan Anda&mdash;dan tentunya juga menginspirasi mereka.
+
+#### Bagaimana Kanban Personal CEO bisa Menegakkan Pilar 1?
+
+Jika CEO bergerak cepat, seluruh organisasi jadi terinspirasi untuk bergerak cepat. Efek serupa juga terjadi jika CEO-nya lambat.
+
+Yang pasti, dengan transparansi rencana aktivitas-aktivitas CEO di masa depan, ekspektasi-ekspektasi beliau di masa depan berpeluang besar bisa terpenuhi oleh anggota-anggota lain di organisasi. 
+
+#### Bagaimana Kanban Personal CEO bisa Menegakkan Pilar 2?
+
+Transparansi aktivitas CEO bisa memicu diskusi-diskusi produktif di internal organisasi. Mungkin ada peluang atau ancaman yang luput dari mata CEO, namun terlihat oleh anggota organisasi lain.
