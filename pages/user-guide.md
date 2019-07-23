@@ -33,9 +33,9 @@ Terkait _trust_, Scrum sendiri sudah punya 'Transparansi' sebagai salah satu pil
 
 Di sisi lain, bingkai kerja agile software development tidak menyentuh pimpinan organisasi&mdash;hanya tim pengembangan. Padahal pimpinan-lah yang jadi jangkar budaya organisasinya.
 
-Untungnya, perspektif Tiga Pilar Agile punya praktik-praktik konkrit & bisa menyentuh pimpinan organisasi. Contoh: [CEO's Personal Kanban](/ceos-personal-kanban), Monthly Organization Survey.
+Untungnya, perspektif Tiga Pilar Agile punya praktik-praktik konkrit & bisa menyentuh pimpinan organisasi. Contoh: [Kanban Pribadi CEO](/ceos-personal-kanban), [Retrospektif Organisasi](/organization-retrospective).
 
-Setelah praktik-praktik transpansi pimpinan di atas terbukti meningkatkan budaya _trust_ di organisasi, implementasi di level eksekutor jadi lebih mudah. Itu karena pimpinan telah memberikan contoh. Berikut beberapa praktik-praktik transparansi yang bisa digunakan di level eksekutor: Project Kanban, Operational Kanban, Team Retrospective.
+Setelah praktik-praktik transpansi pimpinan di atas terbukti meningkatkan budaya _trust_ di organisasi, implementasi di level eksekutor jadi lebih mudah. Itu karena pimpinan telah memberikan contoh. Berikut beberapa praktik-praktik transparansi yang bisa digunakan di level eksekutor: Kanban Proyek, Kanban Operasional, Retrospektif Tim.
 
 NB: Harus diakui [Low Trust Society](https://en.wikipedia.org/wiki/High_trust_and_low_trust_societies) adalah masalah multi-dimensi di semua pojok muka bumi ini. Secara global, sepanjang waktu, orang makin tidak percaya dengan orang lain ([game ini menunjukkan kenapa](https://ncase.me/trust/)). Parahnya lagi, relatif terhadap rata-rata negara lain, Indonesia termasuk _low trust society_, menurut [Indeks Persepsi Korupsi](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index)&mdash;jadi _start_-nya saja sudah jelek. Maka dari itu, startegi fokus di praktik-praktik 'Transparansi' di awal amat penting. Karena praktik-praktik Transparansi meminimalisir miskomunikasi.
 
