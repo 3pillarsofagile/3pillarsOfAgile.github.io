@@ -9,6 +9,10 @@ a:visited{
 a.badge:visited{
   color: white;
 }
+[data-toggle="tooltip"]{
+  border-bottom: 2px dashed #999;
+  text-decoration: none; 
+}
 
 .navbar{
      margin-bottom: 3em;
@@ -33,10 +37,12 @@ a.badge:visited{
       color: gray;
     }
     .closing-heading{
-      margin-top: 1.5em;
       font-size: 1.5em;
       color: gray;
     }
+  }
+  .col-md-4{
+    margin-bottom: 1.5em;
   }
 }
 
