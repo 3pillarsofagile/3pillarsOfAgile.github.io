@@ -11,11 +11,11 @@ question: Apa pandangan kamu terhadap papan kanban proyek? Ada pengalaman?
 
 #### Apa itu Papan Kanban?
 
-Papan kanban adalah alat bantu visualisasi status pekerjaan dengan memanfaatkan kartu-kartu yang digeser dan kolom-kolom status pekerjaan. Fungsinya adalah untuk meningkatkan transparansi, baik ke internal maupun ke eksternal.
+Papan kanban adalah alat bantu visualisasi status pekerjaan, dengan memanfaatkan kartu-kartu yang digeser antar kolom-kolom status pekerjaan. Fungsinya adalah untuk meningkatkan transparansi, baik ke internal maupun ke eksternal.
 
 {% include image.html 
     img="https://user-images.githubusercontent.com/2253841/61527448-a558be80-aa46-11e9-9d65-9ca4e6713391.png"
-    caption="Papan kanban paling sederhana. Task-Task di atas digeser ke kanan sesuai status. Sumber: Sven Wiegand (klik gambar)."
+    caption="Papan kanban paling sederhana, karena hanya memiliki satu langkah pengerjaan Task-Task di atas digeser ke kanan sesuai status. Sumber: Sven Wiegand (klik gambar)."
     url="https://hackernoon.com/personal-kanban-part-1-why-todo-lists-don-t-work-3b5c6dc78708"
     max-width="500px"
     %}
@@ -74,10 +74,10 @@ Papan Kanban Proyek bisa membantu para eksekutor menolak pekerjaan tambahan. Kar
 
 #### Seperti Apa Cara Penggunaannya?
 
-Sederhana. Buat papannya, isi, lalu terus perbarui. Perbarui minimal setiap hari&mdash;meski langsung setelah pengerjaan tentu lebih baik.
+Sederhana. Buat papannya, isi, lalu terus perbarui. Perbarui minimal setiap hari&mdash;meski langsung setelah pengerjaan (baca: _realtime_) tentu lebih baik.
 
 Jika memungkinkan, buat papan kanban fisik di dinding.
 
-Jika ingin meningkatkan _trust_ dari seseorang, beri beliau akses ke papan kanban proyek Anda & notifikasi jika ada pembaruan.
+Jika ingin meningkatkan _trust_ dari seseorang, beri beliau akses ke papan kanban proyek Anda & notifikasi jika ada pembaruan penting.
 
-_Lihat juga praktik [Kanban Personal CEO](/ceos-personal-kanban) & [Papan Kanban untuk Pekerjaan Berulang](/kanban-board-for-repeating-job)_
+_Lihat juga praktik [Kanban Personal CEO](/ceos-personal-kanban) & [Papan Kanban Operasional](/kanban-board-for-repeating-work)_

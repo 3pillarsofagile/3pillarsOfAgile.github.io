@@ -13,11 +13,11 @@ question: Apa pandangan-mu terhadap Papan Kanban CEO? Bagaimana cara terbaik mem
 
 Kanban Personal adalah papan kanban milik individu. Lalu apa itu papan kanban?
 
-Papan kanban adalah alat bantu visualisasi status pekerjaan dengan memanfaatkan kartu-kartu yang digeser dan kolom-kolom status pekerjaan. Fungsinya adalah untuk meningkatkan transparansi, baik ke internal maupun ke eksternal.
+Papan kanban adalah alat bantu visualisasi status pekerjaan, dengan memanfaatkan kartu-kartu yang digeser antar kolom-kolom status pekerjaan. Fungsinya adalah untuk meningkatkan transparansi, baik ke internal maupun ke eksternal.
 
 {% include image.html 
     img="https://user-images.githubusercontent.com/2253841/61527448-a558be80-aa46-11e9-9d65-9ca4e6713391.png"
-    caption="Papan kanban paling sederhana. Task-Task di atas digeser ke kanan sesuai status. Sumber: Sven Wiegand (klik gambar)."
+    caption="Papan kanban paling sederhana, karena hanya memiliki satu langkah pengerjaan Task-Task di atas digeser ke kanan sesuai status. Sumber: Sven Wiegand (klik gambar)."
     url="https://hackernoon.com/personal-kanban-part-1-why-todo-lists-don-t-work-3b5c6dc78708"
     max-width="500px"
     %}
@@ -79,3 +79,5 @@ Yang pasti, dengan transparansi rencana aktivitas-aktivitas CEO di masa depan, e
 #### Bagaimana Kanban Personal CEO bisa Menegakkan Pilar 2?
 
 Transparansi aktivitas CEO bisa memicu diskusi-diskusi produktif di internal organisasi. Mungkin ada peluang atau ancaman yang luput dari mata CEO, namun terlihat oleh anggota organisasi lain.
+
+_Lihat juga praktik [Papan Kanban Operasional](/kanban-board-for-repeating-work) & [Papan Kanban Proyek](/kanban-board-for-a-project)_
