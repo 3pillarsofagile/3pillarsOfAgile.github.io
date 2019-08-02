@@ -36,7 +36,7 @@ layout: default
         <div>
             {% assign t_practices = practices | where: "is_boosting_transparency", true %} 
             {% if t_practices %}
-                <h4>Praktik-Praktik Transparansi</h4>
+                <h4>Praktik-Praktik Transparansi Organisasi</h4>
                 <ul class="list-group practice-list">             
                     {% include practice_looper.html looped = t_practices %}
                 </ul>
