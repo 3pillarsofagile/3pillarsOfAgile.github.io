@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Retrospektif Organisasi"
-subtitle: "Cara rutin mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga pegawai makin efektif melayani pelanggan."
+subtitle: "Mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga pegawai makin efektif melayani pelanggan."
 permalink: "organization-retrospective"
 is_boosting_transparency: true
 categories: [second-pillar]

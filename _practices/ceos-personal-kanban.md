@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Kanban Personal CEO"
-subtitle: "Cara menunjukkan ke organisasi Kalau CEO-nya berani transparan."
+subtitle: "Menunjukkan ke organisasi Kalau CEO-nya berani transparan, sehingga semua orang jadi terinspirasi."
 permalink: "ceos-personal-kanban"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar]
