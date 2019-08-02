@@ -11,7 +11,7 @@ question: Apa pandangan-mu terhadap survei kepuasan pegawai (retrospektif organi
 
 Retrospektif organisasi adalah praktik survei kepuasan pegawai konvensional (employee satisfaction survey), yang ditambah respon tindak-lanjut manajemen, dan dilakukan secara sering dan terjadwal.
 
-Retrospektif organisasi terinspirasi dari praktik retrospektif tim di banyak bingkai kerja Agile. Tidak seperti retrospektif tim yang diusahakan tatap muka, retrospektif organisasi seringnya dibantu software. Itu karena mayoritas organisasi punya jumlah anggota yang lebih dari sebuah tim kecil. 
+Retrospektif organisasi terinspirasi dari praktik [retrospektif tim](/team-retrospective) di banyak bingkai kerja Agile. Tidak seperti retrospektif tim yang diusahakan tatap muka, retrospektif organisasi seringnya dibantu software. Itu karena mayoritas organisasi punya jumlah anggota yang lebih dari sebuah tim kecil. 
 
 Retrospektif organisasi tidak meniadakan retrospektif tim, justru menjadi pelengkap untuk mengurai masalah-masalah yang tidak terselesaikan di level tim.
 
@@ -103,3 +103,5 @@ Cukup jelas. Seharusnya ada perubahan atas kondisi organisasi. Karena masalah te
 #### Bagaimana Retrospektif Organisasi bisa Menegakkan Pilar 2?
 
 Jelas. Retrospektif Organisasi adalah praktik nyata yang memungkinkan siklus Build-Measure-Learn berputar di level organisasi.
+
+_Lihat juga praktik [Retrospektif Tim](/team-retrospective)_.
