@@ -100,8 +100,9 @@ blockquote p {
   background-color: #d1e3ff;
   padding: 0.7em 1em;
   margin-top: 1em;
-  min-height: 100px;
+  min-height: 127px;
   
+
   h4{
       margin-bottom: 5px;
   }
@@ -111,13 +112,8 @@ blockquote p {
       margin-right: 10px;
   }
 
-  a.button {
-      -webkit-appearance: button;
-      -moz-appearance: button;
-      appearance: button;
-      text-decoration: none;
-      color: initial;
-      padding: 2px;
+  a.btn {
+      color: white;
   }
 }
 

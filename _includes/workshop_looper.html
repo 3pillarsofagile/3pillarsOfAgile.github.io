@@ -3,12 +3,22 @@
     {% capture training-date %}{{e.date | date: '%s'}}{% endcapture %}
     {% if training-date > nowunix %}
         <div class="event-box">
-                <a class="btn btn-info btn-sm pull-right" href="{{ e.registration }}">&nbsp;Pelajari &amp; Daftar&nbsp;</a>
-            <h5>{{ e.trainer-name }}</h5>
+                <a class="btn btn-info btn-sm pull-right" href="{{ e.registration }}">&nbsp;Daftar&nbsp;</a>
+            <h5>
+                {{ e.trainer-name }}
+                <a href="{{ e.trainer-linkedin }}" class="badge badge-secondary" style="background-color: #0077b7">
+                    in
+                </a>
+            </h5>
             <img class="trainer" align="left" src="/assets/image/person/{{ e.trainer-photo }}" >
-            Waktu: {{e.time}}, {% include id-date.html date=e.date %}<br>
-            Tempat: {{ e.venue }}, {{ e.city }}<br>
-            Keterangan: {{ e.note }}<br>
+            Waktu: <a href="http://www.google.com/calendar/render?action=TEMPLATE&dates={{e.date | date: '%Y%m%d'}}T{{e.time-start | remove: ':'}}00/{{e.date | date: '%Y%m%d'}}T{{e.time-end | remove: ':'}}00&ctz=Asia/Jakarta&location={{ e.venue }}&trp=false&sprop=&sprop=name:"
+            target="_blank" rel="nofollow">{{e.time-start}}-{{e.time-end}}, {% include id-date.html date=e.date %}</a><br>
+            Tempat: <a href="{{ e.venue-map-url }}">{{ e.venue }}</a>, {{ e.city }}<br>
+            {% if e.note %}
+                Keterangan: {{ e.note }}<br>
+            {% endif %}
         </div>
+    {% else %}
+        Belum ada kelas. Ajukan jadwal di <a href="https://t.me/kelasGratis3PA">t.me/kelasGratis3PA</a>.
     {% endif %}
 {% endfor %}

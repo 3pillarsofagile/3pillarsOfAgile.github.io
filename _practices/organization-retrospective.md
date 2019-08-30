@@ -1,15 +1,22 @@
 ---
+title: Retrospektif Organisasi
 layout: practice
-title:  "Retrospektif Organisasi"
-subtitle: "Mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga pegawai makin efektif melayani pelanggan."
-permalink: "organization-retrospective"
+subtitle: Mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga
+  pegawai makin efektif melayani pelanggan.
+permalink: organization-retrospective
 is_boosting_transparency: true
-categories: [second-pillar]
-targets: [ceo, hr, peopleops]
-question: Apa pandangan-mu terhadap survei kepuasan pegawai (retrospektif organisasi)? Ada pengalaman? Apakah ada respons balik ke pegawai? Punya saran akan cara mengedukasi manajemen tentang hal ini?
+categories:
+- second-pillar
+targets:
+- ceo
+- hr
+- peopleops
+question: Apa pandangan-mu terhadap survei kepuasan pegawai (retrospektif organisasi)?
+  Ada pengalaman? Apakah ada respons balik ke pegawai? Punya saran akan cara mengedukasi
+  manajemen tentang hal ini?
 ---
 
-Retrospektif organisasi adalah praktik survei kepuasan pegawai konvensional (employee satisfaction survey), yang ditambah respon tindak-lanjut manajemen, dan dilakukan secara sering dan terjadwal.
+Retrospektif organisasi adalah praktik survei kepuasan pegawai konvensional (employee satisfaction survey), yang ditambah respon tindak-lanjut manajemen, dan dilakukan secara sering dan terjadwal. 
 
 Retrospektif organisasi terinspirasi dari praktik [retrospektif tim](/team-retrospective) di banyak bingkai kerja Agile. Tidak seperti retrospektif tim yang diusahakan tatap muka, retrospektif organisasi seringnya dibantu software. Itu karena mayoritas organisasi punya jumlah anggota yang lebih dari sebuah tim kecil. 
 
