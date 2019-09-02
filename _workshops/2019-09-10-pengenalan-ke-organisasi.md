@@ -10,5 +10,5 @@ trainer: rizky
 trainer-name: Rizky Syaiful
 trainer-linkedin: https://www.linkedin.com/in/rizkysyaiful/
 trainer-photo: rizky.jpg
-registration: https://t.me/RizkySyaiful
+registration: https://t.me/kelasGratis3PA
 ---

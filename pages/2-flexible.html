@@ -3,13 +3,18 @@ permalink: "2-flexible"
 layout: default
 ---
 
-<div class="alert alert-warning alert-dismissible fade show" role="alert">
-    <strong>Baru berkunjung?</strong> Pastikan sudah membaca <a href="/user-guide">panduan penggunaan Tiga Pilar Agile</a>.
+{% include first-time-alert.html %}
+
+<div class="text-center mb-4">
+    <img src="/assets/image/agile-is-flexible-big.jpeg" class="img-fluid" style="max-width: 300px;" alt="">
+    <h2 style="text-align: center;margin-bottom: 1em;">Praktik-Praktik Pilar 2:<br>
+        Build-Measure-Learn pada Produk & Proses Kerja</h2>
 </div>
 
 <div class="row">
     <div class="col-md-6" style="font-size: 1.15em">
-        <img src="/assets/image/pilar-2-agile.jpeg" class="img-fluid img-thumbnail" alt="3 Pilar Agile">
+        <img src="/assets/image/pilar-2-agile.jpeg" class="img-fluid img-thumbnail mb-3" alt="3 Pilar Agile">
+        <h4>Penjelasan Singkat</h4>
         <blockquote class="blockquote">
             <p class="mb-0">
                 <em>Anda bisa saja sudah sering rilis, tapi itu akan sia-sia jika yang sering dirilis itu keren-hanya-menurut-bos.</em>
@@ -28,10 +33,6 @@ layout: default
         </p>
     </div>
     <div class="col-md-6">
-        <div style="text-align: center;">
-            <img src="/assets/image/agile-is-flexible-big.jpeg" class="img-fluid" style="max-width: 300px;" alt="">
-            <h2 style="text-align: center;margin-bottom: 1em;">Praktik-Praktik Pilar 2: Build-Measure-Learn pada Produk & Proses Kerja</h2>
-        </div>
         {% assign practices = site.practices | where: "categories", "second-pillar" %}
         <div>
             {% assign t_practices = practices | where: "is_boosting_transparency", true %} 
@@ -58,22 +59,12 @@ layout: default
     <div class="col-md-9">
         <hr>
         <h4>Ada Praktik Pilar 2 yang Perlu Ditambahkan/Dikurangi?</h4>
-        <p>
+        <p class="dont-break-out">
             Usulan anda bisa terekam di riwayat perubahan halaman ini <a href="https://github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}">github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}</a>
         </p>
-        <div id="disqus_thread"></div>
-        <script>
-        var disqus_config = function () {
-            this.page.url = "{{site.url}}{{page.url}}"; 
-            this.page.identifier = "{{page.permalink}}";
-        };
-        (function() { // DON'T EDIT BELOW THIS LINE
-        var d = document, s = d.createElement('script');
-        s.src = 'https://3pillarsofagile-github-io.disqus.com/embed.js';
-        s.setAttribute('data-timestamp', +new Date());
-        (d.head || d.body).appendChild(s);
-        })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        {% assign full-url = site.url | append: page.url %}
+        {% include disqus-comment.html 
+            site-url-page-url = full-url
+            page-permalink = page.permalink %}
     </div>
 </div>

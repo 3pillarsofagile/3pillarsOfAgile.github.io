@@ -3,7 +3,7 @@
     {% capture training-date %}{{e.date | date: '%s'}}{% endcapture %}
     {% if training-date > nowunix %}
         <div class="event-box">
-                <a class="btn btn-info btn-sm pull-right" href="{{ e.registration }}">&nbsp;Daftar&nbsp;</a>
+                <a class="btn btn-info btn-sm pull-right" target="_blank" href="{{ e.registration }}">&nbsp;Daftar&nbsp;</a>
             <h5>
                 {{ e.trainer-name }}
                 <a href="{{ e.trainer-linkedin }}" class="badge badge-secondary" style="background-color: #0077b7">

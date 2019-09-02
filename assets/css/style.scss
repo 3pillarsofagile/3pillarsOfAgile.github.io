@@ -15,7 +15,7 @@ a.badge:visited{
 }
 
 .navbar{
-     margin-bottom: 3em;
+     margin-bottom: 2em;
 }
 
 /*
@@ -121,4 +121,18 @@ blockquote p {
   h5{
     margin-bottom: 0;
   }
+}
+
+/** helper */
+
+.dont-break-out {
+
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
 }

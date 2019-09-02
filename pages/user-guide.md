@@ -19,9 +19,9 @@ Setelah itu, coba cari pilar(-pilar) yang tepat untuk difokuskan, dengan menjawa
 * anggota organisasi pasif semua?" -> Pilar 2 
 * terlalu sibuk rekrutmen akibat _turnover_ tinggi?" -> Pilar 3
 
-_Tapi di satu pilar saja ada banyak praktik_. Bingung? Untungnya, Anda memang diminta fokus. Pada apa?
+_Tapi di satu pilar saja ada banyak praktik_. Bingung? Untungnya, Anda memang diminta fokus. Fokus melakukan apa?
 
-### 2. Lakukan Praktik-Praktik 'Transparansi Organisasi' Terlebih Dahulu (Tips: Mulai dari Pimpinan).
+### 2. Lakukan Praktik-Praktik 'Transparansi Organisasi' Terlebih Dahulu (Tips: Mulai dari Pimpinan), Demi Budaya Saling Percaya di Organisasi.
 
 {% include blockquote.html
     text="Jika ingin semua orang tangkas berinisiatif memperbaiki diri, berikan otonomi. Jika ingin otonomi bisa berjalan, harus ada <em>trust</em>. Jika ingin ada <em>trust</em>, harus ada transparansi dua arah."
@@ -37,23 +37,55 @@ Untungnya, perspektif Tiga Pilar Agile punya praktik-praktik konkrit & bisa meny
 
 Setelah praktik-praktik transpansi pimpinan di atas dilakukan, lalu terbukti meningkatkan budaya _trust_ di organisasi, implementasi di level eksekutor jadi lebih mudah. Itu karena pimpinan telah memberikan contoh. Berikut beberapa praktik-praktik transparansi yang bisa digunakan di level eksekutor: [Papan Kanban Proyek](/kanban-board-for-a-project), [Papan Kanban Operasional](/kanban-board-for-repeating-work), [Retrospektif Tim](/team-retrospective).
 
-NB: Harus diakui [Low Trust Society](https://en.wikipedia.org/wiki/High_trust_and_low_trust_societies) adalah masalah multi-dimensi di semua pojok muka bumi ini. Secara global, sepanjang waktu, orang makin tidak percaya dengan orang lain ([game ini menunjukkan kenapa](https://ncase.me/trust/)). Parahnya lagi, relatif terhadap rata-rata negara lain, Indonesia termasuk _low trust society_, menurut [Indeks Persepsi Korupsi](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index)&mdash;jadi _start_-nya saja sudah jelek. Maka dari itu, startegi fokus di praktik-praktik 'Transparansi' di awal amat penting. Karena praktik-praktik Transparansi meminimalisir miskomunikasi.
+NB: Harus diakui [Low Trust Society](https://en.wikipedia.org/wiki/High_trust_and_low_trust_societies) adalah masalah multi-dimensi di semua pojok muka bumi ini. Secara global, sepanjang waktu, orang makin tidak percaya dengan orang lain ([game ini menunjukkan kenapa](https://ncase.me/trust/)). Parahnya lagi, menurut [Indeks Persepsi Korupsi](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index) negara-negara, Indonesia termasuk _low trust society_,&mdash;jadi _start_-nya saja sudah jelek. Maka dari itu, startegi fokus di praktik-praktik 'Transparansi' di awal amat penting. Karena praktik-praktik Transparansi meminimalisir miskomunikasi.
 
 {% include image.html 
     img="https://user-images.githubusercontent.com/2253841/61368140-72cc8b80-a8b7-11e9-9690-abfc70fd0686.png"
     caption="Nasihat dari game <a href='https://ncase.me/trust/'>ncase.me/trust</a>: 1) Buka peluang untuk terus berinteraksi. 1) Berikan bayangan bahwa semua bisa sama-sama untung. 2) Minimalisir miskomunikasi sebisa mungkin."
     %}
 
-### 3. Baru Lanjut ke Praktik-Praktik Lain
+### 3. Lakukan Praktik 'MVP'
 
+Apakah praktik-praktik 'Transparansi Organisasi' di atas adalah yang paling penting? Jawabannya, tidak. Praktik-praktik tersebut bagus karena rasa saling percaya yang tinggi adalah pra-syarat bagi organisasi yang ingin mempertangkas dirinya.
+
+Kalau sebuah organisasi sudah punya rasa percaya yang tinggi, apakah masih butuh?
+
+Kalau konteks pelakunya bukan organisasi, melainkan individu &mdash; misalnya pendiri startup yang masih sendiri dan kebetulan seorang programmer handal? Tentu tidak butuh.
+
+Satu praktik agile yang paling penting &mdash; dan baik selalu dipraktikkan oleh semua pihak &mdash; adalah 'Minimum Viable Product' (MVP). Dengan mempraktikkan MVP, segala inisiatif akan diperkecil sekecil-kecilnya, segera dirilis, dan segera dipelajari hasilnya. Sehingga apapun keputusan selanjutnya, diambil berdasarkan data empirik terbaik.
+
+Itu adalah inti dari Pilar 1 & Pilar 2.
+
+_Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan menerapkan praktik-praktik 'Transparansi Organisasi' terlebih dahulu. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda.
+
+### 4. Baru Lanjut ke Praktik-Praktik Lain
+
+**Kenapa harus sesudah praktik 'Transparansi Organisasi'?**  
 Sesudah _trust_ dan komunikasi meningkat, barulah bisa nyaman fokus di praktik-praktik lain&mdash;sebut saja 'Kompetensi'.
 
 Bila dibalik (implementasi 'Kompentensi' dulu baru 'Transparansi Organisasi'), pengenalannya akan lebih sulit. Karena anggota tim belum punya insentif untuk mengubah diri jadi lebih baik. [_Karena hey! Berubah itu saja sudah susah_](https://www.psychologytoday.com/us/blog/neuronarrative/201707/8-reasons-why-its-so-hard-really-change-your-behavior).
 
 Ditambah, praktik-praktik transparansi&mdash;selain meningkatkan _trust_&mdash;juga membuat komunikasi & kolaborasi organisasi meningkat. Komunikasi & kolaborasi adalah fondasi kerja tim. Fokus terhadap praktik-praktik Transparansi terlebih dahulu.
 
+**Kenapa harus sesudah praktik 'MVP'?**  
+Sesudah menerapkan MVP, barulah bisa nyaman fokus di praktik-praktik lain&mdash;sebut saja 'Kompetensi'. Kenapa?
+
+Karena tujuan praktik-praktik lain ('Kompetensi') tidak lain dan tidak bukan adalah untuk memperbaiki MVP itu sendiri. Lewat apa?
+
+- mempersingkat waktu tunggu dari ide muncul sampai fitur dirilis (praktik-praktik Pilar 1)
+- memahami rasa sakit & kebutuhan pengguna agar bisa mendefinisikan MVP yang minimal namun tepat (praktik-praktik Pilar 2) 
+
 ---
 
 Kontributor halaman ini:
 
 * Ramot Stephanus (atas idenya untuk mengangkat praktik-praktik Transparansi ke permukaan, khususnya pada pimpinan).
+
+---
+
+### Ada Ide Untuk Memperbaiki Panduan Ini?
+
+{% assign full-url = site.url | append: page.url %}
+{% include disqus-comment.html 
+    site-url-page-url = full-url
+    page-permalink = page.permalink %}
