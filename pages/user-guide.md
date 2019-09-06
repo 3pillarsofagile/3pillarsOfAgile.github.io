@@ -14,12 +14,13 @@ Kenapa Anda ada di website ini? Seorang praktisi seharusnya menjawab "karena say
 
 Setelah itu, coba cari pilar(-pilar) yang tepat untuk difokuskan, dengan menjawab pertanyaan berikut, "Apakah kita kurang tangkas karena:
 
-* kurang cepat mengambil keputusan dan merilis sesuatu?" -> Pilar 1
-* yang dirilis selalu salah karena pengguna kurang didengar?" -> Pilar 2
+* kurang cepat mengambil keputusan terkait apa yang akan dikembangkan?" -> Pilar 1
+* kurang cepat mengembangkannya?" -> Pilar 1
+* yang dirilis selalu salah alias tidak laku?" -> Pilar 2
 * anggota organisasi pasif semua?" -> Pilar 2 
-* terlalu sibuk rekrutmen akibat _turnover_ tinggi?" -> Pilar 3
+* terlalu sibuk rekrutmen akibat _turnover_ tinggi?" -> Pilar 3 & Pilar 2
 
-_Tapi di satu pilar saja ada banyak praktik_. Bingung? Untungnya, Anda memang diminta fokus. Fokus melakukan apa?
+_Tapi di satu pilar saja ada banyak praktik, bingung saya :(_. Untungnya, Anda memang diminta fokus. Fokus melakukan apa?
 
 ### 2. Lakukan Praktik-Praktik 'Transparansi Organisasi' Terlebih Dahulu (Tips: Mulai dari Pimpinan), Demi Budaya Saling Percaya di Organisasi.
 
@@ -41,7 +42,7 @@ NB: Harus diakui [Low Trust Society](https://en.wikipedia.org/wiki/High_trust_an
 
 {% include image.html 
     img="https://user-images.githubusercontent.com/2253841/61368140-72cc8b80-a8b7-11e9-9690-abfc70fd0686.png"
-    caption="Nasihat dari game <a href='https://ncase.me/trust/'>ncase.me/trust</a>: 1) Buka peluang untuk terus berinteraksi. 1) Berikan bayangan bahwa semua bisa sama-sama untung. 2) Minimalisir miskomunikasi sebisa mungkin."
+    caption="Nasihat sukses dalam karir & bermasyarakat dari game <a href='https://ncase.me/trust/'>ncase.me/trust</a>: 1) Buka peluang untuk terus berinteraksi. 1) Berikan bayangan bahwa semua bisa sama-sama untung. 2) Minimalisir miskomunikasi sebisa mungkin."
     %}
 
 ### 3. Lakukan Praktik 'MVP'
@@ -52,11 +53,11 @@ Kalau sebuah organisasi sudah punya rasa percaya yang tinggi, apakah masih butuh
 
 Kalau konteks pelakunya bukan organisasi, melainkan individu &mdash; misalnya pendiri startup yang masih sendiri dan kebetulan seorang programmer handal? Tentu tidak butuh.
 
-Satu praktik agile yang paling penting &mdash; dan baik selalu dipraktikkan oleh semua pihak &mdash; adalah 'Minimum Viable Product' (MVP). Dengan mempraktikkan MVP, segala inisiatif akan diperkecil sekecil-kecilnya, segera dirilis, dan segera dipelajari hasilnya. Sehingga apapun keputusan selanjutnya, diambil berdasarkan data empirik terbaik.
+Satu praktik agile yang paling penting &mdash; karena selalu dibutuhkan organisasi maupun individu setiap saat &mdash; adalah '[Minimum Viable Product](/mvp)' (MVP). Dengan mempraktikkan MVP, segala inisiatif akan diperkecil sekecil-kecilnya, segera dirilis, dan segera dipelajari hasilnya. Sehingga apapun keputusan selanjutnya, diambil berdasarkan data empirik terbaik.
 
 Itu adalah inti dari Pilar 1 & Pilar 2.
 
-_Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan menerapkan praktik-praktik 'Transparansi Organisasi' terlebih dahulu. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda.
+_Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan sembari menerapkan praktik-praktik 'Transparansi Organisasi'. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda. ;)
 
 ### 4. Baru Lanjut ke Praktik-Praktik Lain
 

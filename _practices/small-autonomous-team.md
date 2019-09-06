@@ -23,7 +23,7 @@ Kedekatan personal antar anggota tim memang jadi poin utama. Artinya, makin keci
     max-width="600px"
     %}
 
-Karena kuncinya di kedekatan personal, tidak ada hirarki yang permanen dan eksplisit di tim. Kepemimpinan muncul secara alami dari _natural authority_. Tidak ada pemilu untuk memilih bos.
+Karena kuncinya di kedekatan personal, tidak ada hirarki yang permanen dan eksplisit di tim. Kepemimpinan(-kepemimpinan) muncul secara alami dari _natural authority_. Seseorang langsung dipercaya dalam suatu hal, karena memang semua sepakat dia ahli di hal tersebut. Tidak ada pemilu untuk memilih bos.
 
 #### Apa itu 'Otonom'?
 
@@ -47,7 +47,7 @@ Pekerjaan jadi selesai lebih cepat.
 
 Karena kecil & otonom, akan ada banyak sesi diskusi ide-ide di dalam sebuah tim. Biasanya, banyak ide bagus yang baru terpikir saat dibicarakan.
 
-Karena kecil & otonom, mereka punya kebutuhan untuk terus memperbaiki diri &mdash; ingat, mereka diberi hukuman dan hadiah secara bersama-sama. Tidak heran, praktik [Retrospektif Tim](/team-retrospectvie) akan sangant membantu. 
+Karena kecil & otonom, mereka punya kebutuhan untuk terus memperbaiki diri &mdash; ingat, mereka diberi hukuman dan hadiah secara bersama-sama. Tidak heran, praktik [Retrospektif Tim](/team-retrospective) akan sangant membantu. 
 
 Artinya, tingkat fleksibilitas sebuah tim akan meningkat jika mereka kecil & diberikan otonomi.
 
@@ -63,4 +63,4 @@ Sebagaimana yang telah dijelaskan, Tim Kecil yang Otonom membuat estimasi jadi l
 
 Transparansi ada di banyak level &mdash; termasuk di internal level tim.
 
-Sebagaimana praktik Papan Kanban ([Operasional](/kanban-board-for-repeating-work) maupun [Proyek](/kanban-board-for-a-project)), praktik mengecilkan jumlah anggota tim & memberikan otonomi juga akan meningkatkan transparansi&mdash;lalu rasa saling percaya. 
+Sebagaimana praktik Papan Kanban ([Operasional](/kanban-board-for-repeating-work) maupun [Proyek](/kanban-board-for-a-project)), praktik mengecilkan jumlah anggota tim & memberikan otonomi juga akan meningkatkan transparansi&mdash;lalu rasa saling percaya.

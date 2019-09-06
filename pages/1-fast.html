@@ -50,12 +50,22 @@ layout: default
                 </ul>
             {% endif %}
         </div>
-        <div style="margin-top: 2em;">
-            {% assign nt_practices = practices | where: "is_boosting_transparency", false %} 
-            {% if nt_practices %}
+        <div class="mt-4">
+            {% assign mvp_practices = practices | where_exp : "item", "item.permalink == 'mvp'" %}
+            {% if mvp_practices %}
+                <h4>Praktik MVP</h4>
+                <ul class="list-group practice-list">             
+                    {% include practice_looper.html looped = mvp_practices %}
+                </ul>
+            {% endif %}
+        </div>
+        <div class="mt-4">
+            {% assign nt_practices = practices | where: "is_boosting_transparency", false %}
+            {% assign nt_nonmvp_practices = nt_practices | where_exp : "item", "item.permalink != 'mvp'" %} 
+            {% if nt_nonmvp_practices %}
                 <h4>Praktik-Praktik Kompetensi</h4>
                 <ul class="list-group practice-list">             
-                    {% include practice_looper.html looped = nt_practices %}
+                    {% include practice_looper.html looped = nt_nonmvp_practices %}
                 </ul>
             {% endif %}
         </div>
