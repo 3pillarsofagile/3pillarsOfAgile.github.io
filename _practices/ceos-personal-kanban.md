@@ -80,4 +80,4 @@ Yang pasti, dengan transparansi rencana aktivitas-aktivitas CEO di masa depan, e
 
 Transparansi aktivitas CEO bisa memicu diskusi-diskusi produktif di internal organisasi. Mungkin ada peluang atau ancaman yang luput dari mata CEO, namun terlihat oleh anggota organisasi lain.
 
-_Lihat juga praktik [Papan Kanban Operasional](/kanban-board-for-repeating-work) & [Papan Kanban Proyek](/kanban-board-for-a-project)_
+_Lihat juga praktik [Papan Kanban Repetitif](/kanban-board-for-repeating-work) & [Papan Kanban Proyek](/kanban-board-for-a-project)_

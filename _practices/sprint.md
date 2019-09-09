@@ -6,6 +6,7 @@ permalink: "sprint"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [product-owner, product-manager, development-team]
+checklist: [scrum]
 question: "Punya pengalaman pribadi dalam melakukan Sprint? Ada tips-dan-trik untuk menjalankan Sprint yang baik dan benar?"
 ---
 

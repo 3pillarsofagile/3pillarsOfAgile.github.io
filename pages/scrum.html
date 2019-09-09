@@ -1,0 +1,23 @@
+---
+layout: post
+permalink: "framework-checklist/scrum"
+title: Checklist Scrum
+question: 
+---
+
+<p>
+    Tiga Pilar Agile membantu Anda memahami 'THE WHY' dari praktik-praktik di bingkai kerja Anda.
+</p>
+
+<p>
+    Berikut pratik-praktik yang ada di Scrum:
+</p>
+
+{% assign practices = site.practices | where: "checklist", "scrum" %}
+<div>
+    {% if practices %}
+        <ul class="list-group practice-list">             
+            {% include practice_looper.html looped = practices %}
+        </ul>
+    {% endif %}
+</div>

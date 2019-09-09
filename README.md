@@ -2,8 +2,8 @@
 
 ### Mau tambah/edit konten?
 
-**Disqus**  
-Isi kolom komentar disqus di halaman terkait. Lalu tunggu editor merespon. Jika disepakati, perubahkan akan editor lakukan. Jangan lupa tinggalkan identitas untuk dituliskan dalam atribusi.
+**Tulis di Fitur Komentar**  
+Isi kolom komentar di halaman terkait. Lalu tunggu editor merespon. Jika disepakati, perubahkan akan editor lakukan. NB: Wajib pakai akun Github.
 
 **Pull Request**  
 Seperti yang bisa ditebak dari kodenya, situs dibuat menggunakan teknologi Jekyll & Github Pages. Silahkan edit di lokal, lalu pull request.

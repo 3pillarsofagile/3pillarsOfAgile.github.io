@@ -6,6 +6,7 @@ permalink: "small-autonomous-team"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [everyone]
+checklist: [scrum]
 question: Apa pandangan-mu terhadap Tim Kecil yang Otonom? Bagaimana cara terbaik meyakinkan pimpinan agar menerapkan praktik ini?
 ---
 
@@ -63,4 +64,4 @@ Sebagaimana yang telah dijelaskan, Tim Kecil yang Otonom membuat estimasi jadi l
 
 Transparansi ada di banyak level &mdash; termasuk di internal level tim.
 
-Sebagaimana praktik Papan Kanban ([Operasional](/kanban-board-for-repeating-work) maupun [Proyek](/kanban-board-for-a-project)), praktik mengecilkan jumlah anggota tim & memberikan otonomi juga akan meningkatkan transparansi&mdash;lalu rasa saling percaya.
+Sebagaimana praktik Papan Kanban ([Repetitif](/kanban-board-for-repeating-work) maupun [Proyek](/kanban-board-for-a-project)), praktik mengecilkan jumlah anggota tim & memberikan otonomi juga akan meningkatkan transparansi&mdash;lalu rasa saling percaya.

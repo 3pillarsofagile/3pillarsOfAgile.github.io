@@ -1,12 +1,12 @@
 ---
 layout: practice
-title:  "Papan Kanban Operasional"
-subtitle: "Membuat detail pekerjaan berulang (operasional) jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
+title:  "Papan Kanban Repetitif"
+subtitle: "Membuat detail pekerjaan berulang (repetitif) jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
 permalink: "kanban-board-for-repeating-work"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [project-executor, developer]
-question: Apa pandangan kamu terhadap papan kanban proyek? Ada pengalaman?
+question: Apa pandangan kamu terhadap papan kanban repetitif? Ada pengalaman?
 ---
 
 #### Apa itu Papan Kanban?
@@ -22,7 +22,7 @@ Papan kanban adalah alat bantu visualisasi status pekerjaan, dengan memanfaatkan
 
 Langsung terlihat kalau papan kanban bisa dimanfaatkan oleh individu maupun tim.
 
-#### Apakah Papan Kanban Bisa Dimanfaatkan untuk Pekerjaan Operasional yang Langkahnya Pasti & Berulang?
+#### Apakah Papan Kanban Bisa Dimanfaatkan untuk Pekerjaan Repetitif yang Langkahnya Pasti & Berulang?
 
 Bisa. Justru papan kanban lahir di tipe pekerjaan yang seperti ini, yaitu di [pabrik pembuatan mobil Toyota](https://www.wikiwand.com/en/Kanban). 
 
@@ -34,7 +34,7 @@ Jika kita bicara pengembangan software secara besar, kita mengetahui setiap fitu
 4. acceptance testing (pengujian akhir sebelum rilis),
 5. deploying (rilis).
 
-Karena langkahnya tetap dan sudah jelas, papan kanban operasional bisa dibuat.
+Karena langkahnya tetap dan sudah jelas, papan kanban repetitif bisa dibuat.
 
 {% include image.html
     img="kanban-for-operational1.jpeg"
@@ -52,21 +52,21 @@ Asumsinya, tim di papan kanban ini tidak butuh banyak waktu untuk merilis sebuah
 
 Jawabannya bisa. Namun untuk mengambarkan dua hal yang berbeda.
 
-Contoh: saat sebuah fitur dikerjakan (berarti di 'In Prog.'-nya 'Developing'), ada banyak pekerjaan-pekerjaan kecil yang dinamis&mdash;bisa jauh berbeda antar fitur. Dengan begitu, sebuah tim bisa memiliki dua papan kanban, satu yang operasional (untuk melihat gambaran besar), dan satu lagi yang proyek (untuk melihat detail pekerjaan-pekerjaan kecil di pengambangan).
+Contoh: saat sebuah fitur dikerjakan (berarti di 'In Prog.'-nya 'Developing'), ada banyak pekerjaan-pekerjaan kecil yang dinamis&mdash;bisa jauh berbeda antar fitur. Dengan begitu, sebuah tim bisa memiliki dua papan kanban, satu yang repetitif (untuk melihat gambaran besar), dan satu lagi yang proyek (untuk melihat detail pekerjaan-pekerjaan kecil di pengambangan).
 
-#### Bagaimana Papan Kanban Operasional Menegakkan Pilar 1?
+#### Bagaimana Papan Kanban Repetitif Menegakkan Pilar 1?
 
-Papan Kanban Operasional membantu seseorang untuk melihat kondisi keseluruhan dari sebuah proyek saat ini. Informasi tersebut bisa membuat seseorang bergerak lebih cepat.
+Papan Kanban Repetitif membantu seseorang untuk melihat kondisi keseluruhan dari sebuah proyek saat ini. Informasi tersebut bisa membuat seseorang bergerak lebih cepat.
 
-Jika proyek dieksekusi oleh tim, Papan Kanban Operasional meningkatkan kolaborasi.
+Jika proyek dieksekusi oleh tim, Papan Kanban Repetitif meningkatkan kolaborasi.
 
-#### Bagaimana Papan Kanban Operasional Menegakkan Pilar 2?
+#### Bagaimana Papan Kanban Repetitif Menegakkan Pilar 2?
 
-Papan Kanban Operasional membuat masalah jadi mudah terlihat. Jika ada satu _task_ yang lama di kolom 'In Progress' / 'Doing', atau banyak _task_ mengantri di sebuah kolom 'Done', seluruh orang jadi terpicu untuk menanyakan kendala ke pihak yang mengerjakan.
+Papan Kanban Repetitif membuat masalah jadi mudah terlihat. Jika ada satu _task_ yang lama di kolom 'In Progress' / 'Doing', atau banyak _task_ mengantri di sebuah kolom 'Done', seluruh orang jadi terpicu untuk menanyakan kendala ke pihak yang mengerjakan.
 
-#### Bagaimana Papan Kanban Operasional Menegakkan Pilar 3?
+#### Bagaimana Papan Kanban Repetitif Menegakkan Pilar 3?
 
-Papan Kanban Operasional bisa membantu para eksekutor menolak pekerjaan tambahan. Karena sudah jelas secara visual bagi atasan, bahwa pekerjaan mereka masih banyak&mdash;sehingga tidak bisa ditambah lagi. Manfaat ini juga berlaku sebaliknya&mdash;menunjukkan kalau tim eksekutor sedang agak lowong.
+Papan Kanban Repetitif bisa membantu para eksekutor menolak pekerjaan tambahan. Karena sudah jelas secara visual bagi atasan, bahwa pekerjaan mereka masih banyak&mdash;sehingga tidak bisa ditambah lagi. Manfaat ini juga berlaku sebaliknya&mdash;menunjukkan kalau tim eksekutor sedang agak lowong.
 
 #### Seperti Apa Cara Penggunaannya?
 
@@ -74,6 +74,6 @@ Sederhana. Buat papannya, isi, lalu terus perbarui. Perbarui minimal setiap hari
 
 Jika memungkinkan, buat papan kanban fisik di dinding.
 
-Jika ingin meningkatkan _trust_ dari seseorang, beri beliau akses ke papan kanban operasional Anda & notifikasi jika ada pembaruan penting.
+Jika ingin meningkatkan _trust_ dari seseorang, beri beliau akses ke papan kanban repetitif Anda & notifikasi jika ada pembaruan penting.
 
 _Lihat juga praktik [Kanban Personal CEO](/ceos-personal-kanban) & [Papan Kanban Proyek](/kanban-board-for-a-project)_

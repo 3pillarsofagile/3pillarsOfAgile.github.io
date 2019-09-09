@@ -52,5 +52,11 @@
     // mengaktifkan tooltip
     $('[data-toggle="tooltip"]').tooltip();
 
+    const delay = ms => new Promise(res => setTimeout(res, ms));
+    const deleteWaitingNotice = async () => {
+      await delay(6000);
+      $("#wait-for-comment-box").fadeOut();
+    }
+    deleteWaitingNotice();
   })
 </script>

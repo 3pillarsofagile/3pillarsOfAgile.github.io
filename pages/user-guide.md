@@ -36,7 +36,7 @@ Di sisi lain, bingkai kerja agile software development tidak menyentuh pimpinan 
 
 Untungnya, perspektif Tiga Pilar Agile punya praktik-praktik konkrit & bisa menyentuh pimpinan organisasi. Contoh: [Kanban Pribadi CEO](/ceos-personal-kanban), [Retrospektif Organisasi](/organization-retrospective).
 
-Setelah praktik-praktik transpansi pimpinan di atas dilakukan, lalu terbukti meningkatkan budaya _trust_ di organisasi, implementasi di level eksekutor jadi lebih mudah. Itu karena pimpinan telah memberikan contoh. Berikut beberapa praktik-praktik transparansi yang bisa digunakan di level eksekutor: [Papan Kanban Proyek](/kanban-board-for-a-project), [Papan Kanban Operasional](/kanban-board-for-repeating-work), [Retrospektif Tim](/team-retrospective).
+Setelah praktik-praktik transpansi pimpinan di atas dilakukan, lalu terbukti meningkatkan budaya _trust_ di organisasi, implementasi di level eksekutor jadi lebih mudah. Itu karena pimpinan telah memberikan contoh. Berikut beberapa praktik-praktik transparansi yang bisa digunakan di level eksekutor: [Papan Kanban Proyek](/kanban-board-for-a-project), [Papan Kanban ](/kanban-board-for-repeating-work), [Retrospektif Tim](/team-retrospective).
 
 NB: Harus diakui [Low Trust Society](https://en.wikipedia.org/wiki/High_trust_and_low_trust_societies) adalah masalah multi-dimensi di semua pojok muka bumi ini. Secara global, sepanjang waktu, orang makin tidak percaya dengan orang lain ([game ini menunjukkan kenapa](https://ncase.me/trust/)). Parahnya lagi, menurut [Indeks Persepsi Korupsi](https://en.wikipedia.org/wiki/Corruption_Perceptions_Index) negara-negara, Indonesia termasuk _low trust society_,&mdash;jadi _start_-nya saja sudah jelek. Maka dari itu, startegi fokus di praktik-praktik 'Transparansi' di awal amat penting. Karena praktik-praktik Transparansi meminimalisir miskomunikasi.
 
@@ -55,7 +55,7 @@ Kalau konteks pelakunya bukan organisasi, melainkan individu &mdash; misalnya pe
 
 Satu praktik agile yang paling penting &mdash; karena selalu dibutuhkan organisasi maupun individu setiap saat &mdash; adalah '[Minimum Viable Product](/mvp)' (MVP). Dengan mempraktikkan MVP, segala inisiatif akan diperkecil sekecil-kecilnya, segera dirilis, dan segera dipelajari hasilnya. Sehingga apapun keputusan selanjutnya, diambil berdasarkan data empirik terbaik.
 
-Itu adalah inti dari Pilar 1 & Pilar 2.
+Itu adalah inti dari Pilar 1 & Pilar 2. Artinya, pimpinan organisasi yang tidak mempraktikkan MVP &mdash; dengan punya target rilis produk/fitur yang besar &mdash; sudah pasti tidak tangkas.
 
 _Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan sembari menerapkan praktik-praktik 'Transparansi Organisasi'. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda. ;)
 
@@ -64,17 +64,19 @@ _Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda s
 **Kenapa harus sesudah praktik 'Transparansi Organisasi'?**  
 Sesudah _trust_ dan komunikasi meningkat, barulah bisa nyaman fokus di praktik-praktik lain&mdash;sebut saja 'Kompetensi'.
 
-Bila dibalik (implementasi 'Kompentensi' dulu baru 'Transparansi Organisasi'), pengenalannya akan lebih sulit. Karena anggota tim belum punya insentif untuk mengubah diri jadi lebih baik. [_Karena hey! Berubah itu saja sudah susah_](https://www.psychologytoday.com/us/blog/neuronarrative/201707/8-reasons-why-its-so-hard-really-change-your-behavior).
+Bila dibalik (implementasi 'Kompentensi' dulu baru 'Transparansi Organisasi'), pengenalannya akan lebih sulit. <u>Karena anggota tim belum punya insentif untuk mengubah diri jadi lebih baik</u>. Karena _[Hey! Berubah itu saja sudah susah](https://www.psychologytoday.com/us/blog/neuronarrative/201707/8-reasons-why-its-so-hard-really-change-your-behavior)_.
 
 Ditambah, praktik-praktik transparansi&mdash;selain meningkatkan _trust_&mdash;juga membuat komunikasi & kolaborasi organisasi meningkat. Komunikasi & kolaborasi adalah fondasi kerja tim. Fokus terhadap praktik-praktik Transparansi terlebih dahulu.
 
 **Kenapa harus sesudah praktik 'MVP'?**  
 Sesudah menerapkan MVP, barulah bisa nyaman fokus di praktik-praktik lain&mdash;sebut saja 'Kompetensi'. Kenapa?
 
-Karena tujuan praktik-praktik lain ('Kompetensi') tidak lain dan tidak bukan adalah untuk memperbaiki MVP itu sendiri. Lewat apa?
+Karena:
 
-- mempersingkat waktu tunggu dari ide muncul sampai fitur dirilis (praktik-praktik Pilar 1)
-- memahami rasa sakit & kebutuhan pengguna agar bisa mendefinisikan MVP yang minimal namun tepat (praktik-praktik Pilar 2) 
+1. Sekali lagi: pimpinan yang tidak paham & mempraktikkan MVP sudah pasti berada di organisasi yang tidak tangkas.
+2. Karena tujuan praktik-praktik lain ('Kompetensi') tidak lain dan tidak bukan adalah untuk memperbaiki MVP itu sendiri. Lewat apa?
+  - Mempersingkat waktu tunggu dari ide muncul sampai fitur dirilis (praktik-praktik Pilar 1);
+  - Memahami rasa sakit & kebutuhan pengguna agar bisa mendefinisikan MVP yang minimal namun tepat (praktik-praktik Pilar 2).
 
 ---
 

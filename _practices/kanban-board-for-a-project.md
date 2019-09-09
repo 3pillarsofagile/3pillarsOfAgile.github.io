@@ -6,6 +6,7 @@ permalink: "kanban-board-for-a-project"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [project-executor, developer]
+checklist: [scrum]
 question: Apa pandangan kamu terhadap papan kanban proyek? Ada pengalaman?
 ---
 
@@ -80,4 +81,4 @@ Jika memungkinkan, buat papan kanban fisik di dinding.
 
 Jika ingin meningkatkan _trust_ dari seseorang, beri beliau akses ke papan kanban proyek Anda & notifikasi jika ada pembaruan penting.
 
-_Lihat juga praktik [Kanban Personal CEO](/ceos-personal-kanban) & [Papan Kanban Operasional](/kanban-board-for-repeating-work)_
+_Lihat juga praktik [Kanban Personal CEO](/ceos-personal-kanban) & [Papan Kanban Repetitif](/kanban-board-for-repeating-work)_

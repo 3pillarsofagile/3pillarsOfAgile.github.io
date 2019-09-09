@@ -6,6 +6,7 @@ permalink: "team-retrospective"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [every-member-of-a-small-team]
+checklist: [scrum]
 question: Apa pandangan-mu terhadap Retrospektif Tim? Punya pengalaman pribadi?
 ---
 

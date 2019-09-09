@@ -6,6 +6,7 @@ permalink: "daily-standup"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [project-executor, developer]
+checklist: [scrum]
 question: Apa pandangan kamu terhadap Daily Standup? Ada pengalaman pribadi?
 ---
 
