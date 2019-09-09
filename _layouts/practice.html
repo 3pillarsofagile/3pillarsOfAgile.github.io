@@ -35,10 +35,7 @@ comments: true
     <div class="col-md-9">
         <hr>
         <h4>Ada saran perbaikan untuk halaman ini? {{page.question}}</h4>
-        {% assign full-url = site.url | append: page.url %}
-        {% include disqus-comment.html 
-            site-url-page-url = full-url
-            page-permalink = page.permalink %}
+        {% include comment-box.html %}
     </div>
 </div>
                             

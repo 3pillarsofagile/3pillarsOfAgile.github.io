@@ -88,7 +88,4 @@ Kontributor halaman ini:
 
 ### Ada Ide Untuk Memperbaiki Panduan Ini?
 
-{% assign full-url = site.url | append: page.url %}
-{% include disqus-comment.html 
-    site-url-page-url = full-url
-    page-permalink = page.permalink %}
+{% include comment-box.html %}

@@ -78,9 +78,6 @@ layout: default
         <p class="dont-break-out">
             Usulan anda bisa terekam di riwayat perubahan halaman ini <a href="https://github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}">github.com/3pillarsofagile/3pillarsOfAgile.github.io/commits/master/{{page.path}}</a>
         </p>
-        {% assign full-url = site.url | append: page.url %}
-        {% include disqus-comment.html 
-            site-url-page-url = full-url
-            page-permalink = page.permalink %}
+        {% include comment-box.html %}
     </div>
 </div>

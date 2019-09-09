@@ -6,6 +6,7 @@ permalink: "transparent-work-backlog"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]
 targets: [everyone]
+checklist: [scrum]
 question: "Punya pengalaman pribadi saat menggunakan Backlog?"
 ---
 
