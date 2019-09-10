@@ -18,7 +18,6 @@ email: rizky.syaiful@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website cheatsheet (contekan) tips dan trik, guna menyelamatkan insiatif
   inovasi Anda dari kegagalan & kebangkrutan. 😱
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://3pillarsofagile.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
