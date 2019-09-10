@@ -51,6 +51,7 @@ footer{
   padding-top: 2em;
   padding-bottom: 1em;
   margin-top: 4.5em;
+  margin-bottom: 3.5em;
 }
 
 /*
@@ -128,6 +129,16 @@ blockquote p {
   background-color: #eaeaea;
   padding-top: 1rem;
   padding-bottom: 1px;
+}
+
+.subscribe-box{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:#343a40;
+  color: white;
+  text-align: center;
 }
 
 /** helper */
