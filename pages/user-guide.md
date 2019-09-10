@@ -2,6 +2,8 @@
 permalink: "user-guide"
 title: Panduan Penggunaan Tiga Pilar Agile
 layout: post
+og-image: "3pillars.jpeg"
+excerpt: "Bingung karena terlalu banyak praktik? Baca panduan berikut."
 ---
 
 ### 1. Nilai Kondisi Organisasi
