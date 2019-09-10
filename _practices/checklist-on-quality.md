@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Checklist untuk Kualitas"
-subtitle: "Memastikan standar minimum kualitas wajib dipenuhi agar pekerjaan bisa dibilang selesai, sehingga tidak ada hutang teknis yang harus dibayar di masa depan dan produk jadi tetap bisa mudah dikembangkan."
+excerpt: "Memastikan standar minimum kualitas wajib dipenuhi agar pekerjaan bisa dibilang selesai, sehingga tidak ada hutang teknis yang harus dibayar di masa depan dan produk jadi tetap bisa mudah dikembangkan."
 permalink: "checklist-on-quality"
 is_boosting_transparency: true
 categories: [first-pillar, third-pillar]

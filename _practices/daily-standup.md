@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Daily Standup"
-subtitle: "Memahami kondisi pekerjaan seluruh anggota tim, sehingga bisa mengatur ekspektasi untuk target jangka pendek & membantu teman yang sedang kesulitan."
+excerpt: "Memahami kondisi pekerjaan seluruh anggota tim, sehingga bisa mengatur ekspektasi untuk target jangka pendek & membantu teman yang sedang kesulitan."
 permalink: "daily-standup"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

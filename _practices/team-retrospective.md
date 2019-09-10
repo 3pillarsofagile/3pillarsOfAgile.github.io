@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Retrospektif Tim"
-subtitle: "Mendengar keluhan/pujian seluruh anggota tim lalu menentukan aksi perbaikan jangka pendek, sehingga masalah & potensi tim terangkat cepat."
+excerpt: "Mendengar keluhan/pujian seluruh anggota tim lalu menentukan aksi perbaikan jangka pendek, sehingga masalah & potensi tim terangkat cepat."
 permalink: "team-retrospective"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

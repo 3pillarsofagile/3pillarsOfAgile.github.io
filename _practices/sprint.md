@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Sprint"
-subtitle: "Menghasilkan target rilis dalam jendela waktu yang singkat & konsisten, sehingga kecepatan kerja meningkat & estimasi lama pengerjaan makin akurat."
+excerpt: "Menghasilkan target rilis dalam jendela waktu yang singkat & konsisten, sehingga kecepatan kerja meningkat & estimasi lama pengerjaan makin akurat."
 permalink: "sprint"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

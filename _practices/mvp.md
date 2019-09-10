@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "MVP"
-subtitle: "Mengecilkan ekspektasi rilis sekecil-kecilnya, sehingga makin cepat rilis dan memvalidasi nilai bisnis."
+excerpt: "Mengecilkan ekspektasi rilis sekecil-kecilnya, sehingga makin cepat rilis dan memvalidasi nilai bisnis."
 permalink: "mvp"
 is_boosting_transparency: false
 categories: [first-pillar, second-pillar]

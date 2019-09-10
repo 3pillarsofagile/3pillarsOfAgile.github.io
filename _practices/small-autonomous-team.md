@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Tim Kecil yang Otonom"
-subtitle: "Membentuk tim kecil yang diberikan tugas sebagai satu unit dan tidak dapat micro-manage, sehingga kecerdasan kolektif, rasa tanggung jawab, dan kecepatan kerja meningkat."
+excerpt: "Membentuk tim kecil yang diberikan tugas sebagai satu unit dan tidak dapat micro-manage, sehingga kecerdasan kolektif, rasa tanggung jawab, dan kecepatan kerja meningkat."
 permalink: "small-autonomous-team"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

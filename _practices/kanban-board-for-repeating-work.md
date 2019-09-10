@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Papan Kanban Repetitif"
-subtitle: "Membuat detail pekerjaan berulang (repetitif) jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
+excerpt: "Membuat detail pekerjaan berulang (repetitif) jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
 permalink: "kanban-board-for-repeating-work"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

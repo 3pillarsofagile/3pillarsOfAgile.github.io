@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Antrian Pekerjaan yang Transparan (Backlog)"
-subtitle: "Memvisualkan antrian pekerjaan ke semua orang, sehingga siapapun berempati & punya ekspektasi yang lebih masuk akal."
+excerpt: "Memvisualkan antrian pekerjaan ke semua orang, sehingga siapapun berempati & punya ekspektasi yang lebih masuk akal."
 permalink: "transparent-work-backlog"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

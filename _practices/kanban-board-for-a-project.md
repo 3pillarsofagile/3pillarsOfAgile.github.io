@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Papan Kanban Proyek"
-subtitle: "Membuat detail pekerjaan insidentil jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
+excerpt: "Membuat detail pekerjaan insidentil jadi transparan ke semua, sehingga kecepatan kolaborasi dan rasa percaya bisa meningkat."
 permalink: "kanban-board-for-a-project"
 is_boosting_transparency: true
 categories: [first-pillar, second-pillar, third-pillar]

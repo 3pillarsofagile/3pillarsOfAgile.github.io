@@ -1,7 +1,7 @@
 ---
 title: Retrospektif Organisasi
 layout: practice
-subtitle: Mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga
+excerpt: Mendengar keluhan/pujian seluruh pegawai lalu menindaklanjutinya, sehingga
   pegawai makin efektif melayani pelanggan.
 permalink: organization-retrospective
 is_boosting_transparency: true

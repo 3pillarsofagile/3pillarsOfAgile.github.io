@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Algorithmic Problem Solving"
-subtitle: "Melatih kecepatan berpikir programmer, sehingga bisa menyelesaikan masalah lebih cepat."
+excerpt: "Melatih kecepatan berpikir programmer, sehingga bisa menyelesaikan masalah lebih cepat."
 permalink: "algorithmic-problem-solving"
 is_boosting_transparency: false
 categories: [first-pillar]

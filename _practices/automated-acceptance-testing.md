@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Automated Acceptance Testing"
-subtitle: "Menjaga kevalidan software dengan bantuan software lain, sehingga komunikasi makin akurat, bug makin minim, & rilis makin penuh rasa aman."
+excerpt: "Menjaga kevalidan software dengan bantuan software lain, sehingga komunikasi makin akurat, bug makin minim, & rilis makin penuh rasa aman."
 permalink: "automated-acceptance-testing"
 is_boosting_transparency: false
 categories: [first-pillar, third-pillar]

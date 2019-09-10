@@ -1,7 +1,7 @@
 ---
 layout: practice
 title:  "Paper Prototyping"
-subtitle: "Memvisualkan rancangan software langsung di depan calon pengguna, sehingga bisa Build-Measure-Learn dalam hitungan detik."
+excerpt: "Memvisualkan rancangan software langsung di depan calon pengguna, sehingga bisa Build-Measure-Learn dalam hitungan detik."
 permalink: "paper-prototyping"
 is_boosting_transparency: false
 categories: [first-pillar, second-pillar]
