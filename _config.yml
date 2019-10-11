@@ -35,4 +35,5 @@ sass:
 collections:
   practices:
     output: true
-  workshops:
+  workshop:
+    output: true

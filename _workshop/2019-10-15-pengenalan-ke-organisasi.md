@@ -2,7 +2,7 @@
 workshop: pengenalan-agile-ke-organisasi
 time-start: "18:30"
 time-end: "20:30"
-date: 2019-09-17
+date: 2019-10-15
 venue: Deep Space (Melawai)
 venue-map-url: https://goo.gl/maps/DrJTLUFTRL2XLpCq5
 city: Jakarta

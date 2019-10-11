@@ -59,7 +59,7 @@ Satu praktik agile yang paling penting &mdash; karena selalu dibutuhkan organisa
 
 Itu adalah inti dari Pilar 1 & Pilar 2. Artinya, pimpinan organisasi yang tidak mempraktikkan MVP &mdash; dengan punya target rilis produk/fitur yang besar &mdash; sudah pasti tidak tangkas.
 
-_Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan sembari menerapkan praktik-praktik 'Transparansi Organisasi'. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda. ;)
+_Pilar 3 di mana? Berarti bangungan akan roboh dong?_ Maka dari itu, jika Anda sebuah organisasi, Anda disarankan terlebih dahulu menerapkan praktik-praktik 'Transparansi Organisasi'. Pilar 3 sudah ditegakkan organisasi di sana. Kalau Anda individu, penegak Pilar 3 adalah rasa kantuk Anda sendiri & fakta bahwa hanya Anda yang membaca kode _software_ Anda. ;)
 
 ### 4. Baru Lanjut ke Praktik-Praktik Lain
 
@@ -77,7 +77,7 @@ Karena:
 
 1. Sekali lagi: pimpinan yang tidak paham & mempraktikkan MVP sudah pasti berada di organisasi yang tidak tangkas.
 2. Karena tujuan praktik-praktik lain ('Kompetensi') tidak lain dan tidak bukan adalah untuk memperbaiki MVP itu sendiri. Lewat apa?
-  - Mempersingkat waktu tunggu dari ide muncul sampai fitur dirilis (praktik-praktik Pilar 1);
+  - Mempersingkat 'lead time' &mdash; waktu tunggu dari ide muncul sampai fitur dirilis (praktik-praktik Pilar 1);
   - Memahami rasa sakit & kebutuhan pengguna agar bisa mendefinisikan MVP yang minimal namun tepat (praktik-praktik Pilar 2).
 
 ---
@@ -88,6 +88,6 @@ Kontributor halaman ini:
 
 ---
 
-### Ada Ide Untuk Memperbaiki Panduan Ini?
+### Ada Pengalaman Pribadi? Ada Ide Untuk Memperbaiki Panduan Ini?
 
 {% include comment-box.html %}

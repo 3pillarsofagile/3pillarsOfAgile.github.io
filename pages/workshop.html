@@ -19,7 +19,7 @@ excerpt: "Kenapa gratis? 1. Karena kami ingin Tiga Pilar Agile tersebar seluas m
             <li>Karena materinya ringan; maksimum sesinya 2 jam.</li>
         </ul>
         <p>
-            <em>Bagaimana dengan kualitas?</em> Jangan khawatir. Meski gratis, kualitas materi & penyampaiannya dijaga oleh trainer profesional.
+            <em>Bagaimana dengan kualitas?</em> Jangan khawatir. Meski gratis, kualitas materi & penyampaiannya dijaga oleh trainer profesional &mdash; <a href="{{site.url}}/workshop/2019-09-10-pengenalan-ke-organisasi.html">baca survei peserta ini</a>.
         </p>
         <p>
             Perlu dicatat: karena gratis, pemilik <em>venue</em> bisa mewajibkan pembelian makanan atau melakukan sesi promosi (maks. 5 menit). Di akhir kelas, ada kesempatan memberikan donasi bebas ke pemateri. Jangan kasih 1 Rupiah-pun kalau dirasa tidak berkualitas & bermanfaat. ;)
@@ -36,7 +36,7 @@ excerpt: "Kenapa gratis? 1. Karena kami ingin Tiga Pilar Agile tersebar seluas m
 
 <div class="row">
     <div class="col-md-6">
-        {% assign workshops = site.workshops | where: "workshop", "tiga-pilar-agile" %}
+        {% assign workshops = site.workshop | where: "workshop", "tiga-pilar-agile" %}
             
         {% if workshops.size > 0 %}
 
@@ -52,7 +52,7 @@ excerpt: "Kenapa gratis? 1. Karena kami ingin Tiga Pilar Agile tersebar seluas m
 
         {% endif %}
 
-        {% assign workshops = site.workshops | where: "workshop", "pengenalan-agile-ke-organisasi" %}
+        {% assign workshops = site.workshop | where: "workshop", "pengenalan-agile-ke-organisasi" %}
             
         {% if workshops.size > 0 %}
 
@@ -78,7 +78,7 @@ excerpt: "Kenapa gratis? 1. Karena kami ingin Tiga Pilar Agile tersebar seluas m
         {% endif %}
     </div>
     <div class="col-md-6">
-            {% assign workshops = site.workshops | where: "workshop", "cypress-dasar" %}
+            {% assign workshops = site.workshop | where: "workshop", "cypress-dasar" %}
 
             {% if workshops.size > 0 %}
 
