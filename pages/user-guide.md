@@ -22,6 +22,8 @@ Setelah itu, coba cari pilar(-pilar) yang tepat untuk difokuskan, dengan menjawa
 * anggota organisasi pasif semua?" -> Pilar 2 
 * terlalu sibuk rekrutmen akibat _turnover_ tinggi?" -> Pilar 3 & Pilar 2
 
+Gunakan software [my3pa](https://my3pa.netlify.com/) untuk lebih detailnya.
+
 _Tapi di satu pilar saja ada banyak praktik, bingung saya :(_. Untungnya, Anda memang diminta fokus. Fokus melakukan apa?
 
 ### 2. Lakukan Praktik-Praktik 'Transparansi Organisasi' Terlebih Dahulu (Tips: Mulai dari Pimpinan), Demi Budaya Saling Percaya di Organisasi.
